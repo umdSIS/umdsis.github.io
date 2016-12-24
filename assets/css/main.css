@@ -2122,6 +2122,12 @@ sidebar p {
 		list-style: decimal;
 		padding-left: 1.25em;
 	}
+	ol.mission {
+			list-style: decimal;
+			line-height: 2em;
+			padding-left: 1.25em;
+			padding-right: 1.25em;
+	}
 
 		ol.default li {
 			padding-left: 0.25em;
@@ -2734,10 +2740,10 @@ sidebar p {
 
 		/* Lists */
 		ol.mission {
-			list-style-type: decimal;
-			line-height: 3em;
-			list-style-position: inside;
-			padding-left: 1.25em
+			list-style: decimal;
+			line-height: 2em;
+			padding-left: 1.25em;
+			padding-right: 1.25em;
 			
 		}
 
@@ -2745,6 +2751,7 @@ sidebar p {
 				list-style: decimal;
 				padding-left: 1.25em;
 				padding-right: 1.25em;
+				line-height: 2em
 			}
 
 				ol.default li {
