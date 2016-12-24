@@ -1874,6 +1874,7 @@
 		font-size: 3em;
 		letter-spacing: -.025em;
 	}
+
 	p  {
 		color: #37c0fb;
 		font-size: 1.0em;
@@ -2592,6 +2593,10 @@ sidebar p {
 				vertical-align: middle;
 				margin-left: 1em;
 			}
+header.majorone {
+	text-align:center;
+	background-color: #37c0fb;
+		}
 
 /* Wrapper */
 
@@ -2845,6 +2850,7 @@ sidebar p {
 				text-align: center;
 				margin: 0 0 2em 0;
 			}
+			
 
 				header.major h2 {
 					font-size: 1.75em;
@@ -2854,6 +2860,7 @@ sidebar p {
 					top: -0.25em;
 					font-size: 1.25em;
 				}
+			
 
 		/* Box */
 
