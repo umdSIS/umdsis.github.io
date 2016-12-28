@@ -1873,7 +1873,9 @@
 		color: #000000;
 		font-size: 3em;
 		letter-spacing: -.025em;
+		padding: 0 0 0 0;
 	}
+	
 
 	p  {
 		color: #37c0fb;
@@ -1928,7 +1930,7 @@ sidebar p {
 
 	header.major {
 		text-align: center;
-		margin: 0 0 2em 0;
+		margin: 0 0 0em 0;
 	}
 
 		header.major h2 {
@@ -1944,6 +1946,12 @@ sidebar p {
 			font-size: 1.5em;
 			letter-spacing: -0.025em;
 		}
+		header.major h4 {
+			position: relative;
+			padding: .4em 0 .4em 0;
+			margin-bottom: auto;
+			
+}
 
 	footer {
 		margin: 0 0 3em 0;
@@ -2275,7 +2283,7 @@ sidebar p {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #50c8fb;
+			background-color: #9be0fd;
 			color: #fff !important;
 		}
 
@@ -2597,15 +2605,19 @@ header.majorone {
 	text-align:center;
 	background-color: #37c0fb;
 		}
+header.majorone h4{
+	color: #000;
+	font-size: 2.5em;
+	padding: 1em 0 1em 0;
+}
 
 /* Wrapper */
 
-	.wrapper {
-		padding: 5em 0 3em 0;
-	}
+	
 
 		.wrapper.style1 {
-			background: #fff;
+			background-color: #fff;
+			margin-top: auto;
 		}
 
 		.wrapper.style2 {
@@ -2614,8 +2626,9 @@ header.majorone {
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
-			padding: 3em 0 3em 0
+			padding: 3em 0 3em 0;
 		}
+
 
 		.wrapper.style3 {
 			background-color: #37c0fb;
