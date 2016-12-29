@@ -2082,6 +2082,9 @@ sidebar p {
 			}
 
 
+
+
+
 /* Icon */
 
 	.icon {
@@ -2712,8 +2715,9 @@ header.majorone h4{
 }
 .aboutus {
 	position: relative;
+	margin-top: 100px;
+	padding-bottom: 7em;
 	top: 100px;
-	padding-bottom: 3em;
 }
 .aboutusp {
 	padding: 0 0 0 0;
