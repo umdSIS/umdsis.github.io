@@ -1873,6 +1873,11 @@
 	letter-spacing: -.025em;
 	padding: -5em 0 0 0;
 }
+	h3.officers {
+	font-size: 1.0em;
+	letter-spacing: -.025em;
+	color: #37c0fb;
+}
 	
 	h4 { 
 		color: #000000;
