@@ -1890,6 +1890,13 @@ h3.officers {
 		text-decoration: none;
 		line-height: 150%;
 	}
+p.spotlight {
+	color: #000000;
+	font-size: 1.0em;
+	letter-spacing: : -.025em;
+	text-decoration: none;
+	line-height: 150%;
+}
 sidebar p {
 		color: #37c0fb;
 		font-size: 1.0 em;
