@@ -2558,7 +2558,7 @@ sidebar p {
 /* Banner */
 
 	#banner {
-		background-image: url(/images/levenson3.jpg);
+		background-image: url(../../levenson3.jpg);
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
